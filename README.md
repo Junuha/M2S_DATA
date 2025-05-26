@@ -1,10 +1,5 @@
 # M2S_DATA: One Shot is Enough — Multi-turn-to-Single-turn Jailbreak Dataset
 
-This repository accompanies our **ACL 2025 main-conference paper**, accepted as a long paper.  
-**“One Shot is Enough: Consolidating Multi-Turn Attacks into Efficient Single-Turn Prompts for LLMs.”**  
-Junwoo Ha, Hyunjun Kim, Sangyoon Yu, Haon Park, Ashkan Yousefpour, Yuna Park, Suhyun Kim.  
-[[arXiv 2503.04856](https://arxiv.org/abs/2503.04856)]
-
 ---
 
 ## Description
